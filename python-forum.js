@@ -16,7 +16,7 @@ function init() {
   this.viewURL = 'http://python-forum.org/search.php?search_id=unreadposts';
 }
 
-function getIconURL(){
+function getIconURL() {
   return 'https://www.python.org/static/favicon.ico';
 }
 
