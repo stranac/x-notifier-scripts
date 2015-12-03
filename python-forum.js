@@ -1,5 +1,6 @@
 /**
- * X-notifier script for unread posts on python-forum.org
+ * @file X-notifier script for unread posts on python-forum.org
+ * @author: stranac <stranac@hotmail.com>
  */
 
 var name = 'Python Forum';
