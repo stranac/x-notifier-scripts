@@ -2,7 +2,7 @@
  * @file X-notifier script for freenet.de
  * @author: stranac <stranac@hotmail.com>
  */
- 
+
 var name = 'freenet.de';
 var ver = '2015-12-03';
 
@@ -17,7 +17,7 @@ function init() {
 }
 
 function getIconURL() {
-  return 'https://webmail.freenet.de/cockpit/img/favicon.ico'
+  return 'https://webmail.freenet.de/cockpit/img/favicon.ico';
 }
 
 function getCount(aData) {
