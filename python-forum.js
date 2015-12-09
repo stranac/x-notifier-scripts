@@ -4,7 +4,7 @@
  */
 
 var name = 'Python Forum';
-var ver = '2015-12-02';
+var ver = '2015-12-09';
 
 function init() {
   this.loginData = [
@@ -15,6 +15,7 @@ function init() {
   ];
   this.dataURL = 'http://python-forum.org/search.php?search_id=unreadposts';
   this.viewURL = 'http://python-forum.org/search.php?search_id=unreadposts';
+  this.viewDomain = 'python-forum.org';
 }
 
 function getIconURL() {
